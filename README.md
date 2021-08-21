@@ -11,8 +11,8 @@
 [![Linkedin: koredeakande](https://img.shields.io/badge/-oluwakorede akande-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oluwakorede-akande/)](https://www.linkedin.com/in/oluwakorede-akande/)
 [![GitHub koredeakande](https://img.shields.io/github/koredeakandelabel=follow&style=social)](https://github.com/KoredeAkande)
 
-[![Linkedin: koredeakande](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![Linkedin: koredeakande](https://img.shields.io/badge/-koredeakande-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oluwakorede-akande/)](https://www.linkedin.com/in/oluwakorede-akande/)
+[![GitHub KoredeAkande](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/KoredeAkande)
 
 <!--
 **KoredeAkande/KoredeAkande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
