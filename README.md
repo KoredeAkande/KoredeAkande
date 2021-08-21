@@ -18,12 +18,6 @@
 ![](https://img.shields.io/badge/Tool-Excel-informational?style=flat&logo=microsoft-excel&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Google_Sheets-informational?style=flat&logo=google-sheets&logoColor=white&color=2bbc8a)
 
-## GitHub Stats &#x1f4c8; 
-
-<a href="https://github.com/KoredeAkande/KoredeAkande">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoredeAkande&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-
 
 <!--
 **KoredeAkande/KoredeAkande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -38,4 +32,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Resources (Massive shoutout to the creators of the following readmes:
+- https://github.com/jh3y/jh3y
+- https://github.com/Raymo111/Raymo111
+- https://github.com/Thaiane/Thaiane
+- https://github.com/MartinHeinz
 -->
