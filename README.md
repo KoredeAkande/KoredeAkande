@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/KoredeAkande/KoredeAkande/master/name_tag_header.svg" alt="KoredeAkande" />
+  <img src="https://raw.githubusercontent.com/KoredeAkande/KoredeAkande/master/name_tag_header.gif" alt="KoredeAkande" />
 </h1>
 
 
