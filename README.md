@@ -1,3 +1,6 @@
+[![Header](https://raw.githubusercontent.com/KoredeAkande/KoredeAkande/master/name_tag_header.png "Header")
+
+
 ### Hi there 👋
 
 <!--
