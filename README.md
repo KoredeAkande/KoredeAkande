@@ -11,7 +11,7 @@
 [![GitHub KoredeAkande](https://img.shields.io/github/followers/KoredeAkande?label=follow&style=social)](https://github.com/KoredeAkande)
 
 ## Technologies & Tools 🔧 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=#A48D0F)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=2bbc8a)
