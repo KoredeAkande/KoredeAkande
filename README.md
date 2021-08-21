@@ -1,4 +1,6 @@
-[![Header](https://raw.githubusercontent.com/KoredeAkande/KoredeAkande/master/name_tag_header.png "Header")]
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/KoredeAkande/KoredeAkande/master/name_tag_header.svg" alt="KoredeAkande" />
+</h1>
 
 
 ### Hi there 👋
