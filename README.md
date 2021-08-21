@@ -3,7 +3,9 @@
 </h1>
 
 
-### Hi there 👋
+# Hi there! I'm Korede 👋
+- 2021 Data Science Intern at Spotify <img src="https://media.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="30">
+- Student at Minerva University, majoring in CS (Data Science & Statistics) and minoring in Business 
 
 <!--
 **KoredeAkande/KoredeAkande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
