@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/KoredeAkande/KoredeAkande/master/output-onlinegiftools.gif" alt="KoredeAkande" />
+  <img src="https://raw.githubusercontent.com/KoredeAkande/KoredeAkande/master/name_tag.gif" alt="KoredeAkande" />
 </h1>
 
 
