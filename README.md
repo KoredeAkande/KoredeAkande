@@ -14,9 +14,9 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=A48D0F)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&logoColor=white&color=A48D0F)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=A48D0F)
-![](https://img.shields.io/badge/Tool-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=A48D0F)
 ![](https://img.shields.io/badge/Tool-Excel-informational?style=flat&logo=microsoft-excel&logoColor=white&color=A48D0F)
 ![](https://img.shields.io/badge/Tool-Google_Sheets-informational?style=flat&logo=google-sheets&logoColor=white&color=A48D0F)
+![](https://img.shields.io/badge/Tool-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=A48D0F)
 
 
 <!--
