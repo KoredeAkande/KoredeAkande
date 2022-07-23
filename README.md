@@ -8,7 +8,6 @@
 - Student at [Minerva University](https://www.minerva.edu/about/), majoring in CS (Data Science & Statistics) and minoring in Business 
 
 [![Linkedin: koredeakande](https://img.shields.io/badge/-koredeakande-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oluwakorede-akande/)](https://www.linkedin.com/in/oluwakorede-akande/)
-[![GitHub KoredeAkande](https://img.shields.io/github/followers/KoredeAkande?label=follow&style=social)](https://github.com/KoredeAkande)
 
 ## Technologies & Tools 🔧 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=A48D0F)
