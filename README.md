@@ -4,8 +4,8 @@
 
 
 # Hi there! I'm Korede 👋
+- Bachelor's degree in Computer Science (Data Science and Statistics) from [Minerva University](https://www.minerva.edu/about/)
 - 2021 Data Science Intern at Spotify<img src="https://media.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="30">
-- Student at [Minerva University](https://www.minerva.edu/about/), majoring in CS (Data Science & Statistics) and minoring in Business 
 
 [![Linkedin: koredeakande](https://img.shields.io/badge/-koredeakande-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oluwakorede-akande/)](https://www.linkedin.com/in/oluwakorede-akande/)
 
