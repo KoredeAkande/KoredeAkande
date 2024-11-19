@@ -4,7 +4,7 @@
 
 
 # Hi there! I'm Korede 👋
-- Associate Data Scientist at Spotify<img src="https://media.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="30">
+- Data Scientist at Spotify<img src="https://media.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif" width="30">
 - Bachelor's degree in Computer Science (Data Science and Statistics) from [Minerva University](https://www.minerva.edu/about/)
 
 [![Linkedin: koredeakande](https://img.shields.io/badge/-koredeakande-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oluwakorede-akande/)](https://www.linkedin.com/in/oluwakorede-akande/)
